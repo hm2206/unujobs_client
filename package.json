@@ -29,7 +29,7 @@
     "js-cookie": "^2.2.1",
     "moment": "^2.24.0",
     "native-url": "^0.2.3",
-    "next": "^9.1.6",
+    "next": "^11.1.0",
     "next-cookies": "^2.0.3",
     "next-redux-wrapper": "^4.0.1",
     "node-fetch": "^2.6.0",
